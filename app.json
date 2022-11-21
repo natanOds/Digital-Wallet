@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "digital-wallet",
+    "slug": "digital-wallet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
