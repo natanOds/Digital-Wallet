@@ -1,4 +1,3 @@
-
 import { StatusBar } from "expo-status-bar";
 import { View, Text } from "react-native";
 import { ThemeProvider } from "styled-components";

@@ -10,7 +10,7 @@ export const Button = styled(RectButton)`
     justify-content: center;
     flex-direction: row;
     margin-bottom: 16px;
-    border-radius: ${RFValue(5)}px;
+    border-radius: ${RFValue(10)}px;
     margin-left: ${RFValue(10)}px;
     margin-right: ${RFValue(10)}px;
     box-shadow: 1px 3px 3px rgba(0,0,0,0.2);
