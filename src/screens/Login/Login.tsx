@@ -24,7 +24,7 @@ const Login: React.FC = () => {
 
                     <ViewButton>
                     <ButtonSocialGoogle title="Google" />
-                    <ButtonSocialGoogle title="Facebook" />
+                    <ButtonSocialGoogle title="Google" />
                     </ViewButton>
 
                 </ContentHeader>
